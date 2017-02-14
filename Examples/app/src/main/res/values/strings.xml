@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examples</string>
+    <string name="action_settings">Settings</string>
+    <string name="write_to_external_storage_permission" />
+    <string name="permission_denied_external_storage" />
+    <string name="saving_resource_files_external_storage" />
+</resources>
